@@ -16,7 +16,11 @@ In this project, I worked on the following key areas:
 - **🔧 GPO Implementation**: Applied **GPOs** to restrict access to network drives and prevent file deletion by removing the **Recycle Bin** from desktops.
 - **📂 Organized Accounts**: Disabled accounts are automatically moved to a dedicated **OU**, helping maintain a clean and well-organized Active Directory.
 
+## 📂 Available Scripts
+
+- **[Create Account Automation](https://github.com/MiguelKnt/Active-Directory-Security-GPO-and-PowerShell-Automation/blob/main/createAduser_script.ps1)**: Automates the creation of user accounts in Active Directory.
+- **[Disable Account Automation](https://github.com/MiguelKnt/Active-Directory-Security-GPO-and-PowerShell-Automation/blob/main/removeADuser_script.ps1)**: Disables a user account and moves it to the "Disabled Accounts" OU.
+
 ---
 
 Thank you for checking out the project! 🎉
-
